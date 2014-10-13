@@ -30,6 +30,8 @@ Commit 4
 
 Branch 1 bottom
 
+< develop 2.2 >
+
 Bye
 
 feature 1 bottom
