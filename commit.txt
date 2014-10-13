@@ -43,4 +43,4 @@ feature 1 bottom
 Branch 2.2 middlebottom
 +++++++++++++++++
 
-Feature 4
+Feature 4 finish
