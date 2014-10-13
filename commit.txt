@@ -28,6 +28,8 @@ hello world
 
 < develop 3 >
 
+^^^ Develop 1 finish ^^^^
+
 hello world
 hello world
 hello world
@@ -43,9 +45,15 @@ Bye
 feature 1 bottom
 
 Branch 2.2 middlebottom
+<<<<<<< HEAD
 
 ============================
 
 Feature 2
 
 < feature develop 1.1>
+=======
++++++++++++++++++
+
+Feature 4 finish
+>>>>>>> develop
