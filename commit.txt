@@ -7,6 +7,9 @@ hello world
 hello world
 hello world
 hello world
+
+Branch 2.2 middle
+
 hello world
 hello world
 hello world
@@ -20,3 +23,5 @@ Commit 4
 Branch 1 bottom
 
 Bye
+
+Branch 2.2 middlebottom
