@@ -27,4 +27,6 @@ Branch 1 bottom
 
 Bye
 
+feature 1 bottom
+
 Branch 2.2 middlebottom
