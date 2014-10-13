@@ -2,6 +2,8 @@ Branch 1 top
 
 < develop 2.1 >
 
+<<< finish develop 3 >>>
+
 Commit 2
 
 hello world
@@ -23,6 +25,8 @@ hello world
 hello world
 
 < develop 1 >
+
+< develop 3 >
 
 hello world
 hello world
